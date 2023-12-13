@@ -1,4 +1,10 @@
-# PINN-acoustic
+# run code
+Before you run the code, you shoud firstly insall SCIANN 
+
+https://github.com/sciann/sciann
+
+
+# cite work
 If you use our code for academic research, you are encouraged to cite the following paper:
 
 @article{zhang2023seismic,  
